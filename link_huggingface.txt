@@ -1,0 +1,2 @@
+Model Fine-tuning (SFT, Kriteria 1): https://huggingface.co/Fepriyadi/Qwen2.5-3B-Instruct-Alpaca-ID-SFT
+Model GRPO (Kriteria 1 Advanced): https://huggingface.co/Fepriyadi/Qwen2.5-3B-Instruct-Alpaca-ID-GRPO
